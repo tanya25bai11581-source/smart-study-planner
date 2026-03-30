@@ -1,0 +1,7 @@
+SMART STUDY PLAN
+
+PHY - Priority 5
+MATHS - Priority 5
+CHEM - Priority 3
+BIO - Priority 3
+CS - Priority 3
